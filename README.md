@@ -19,5 +19,7 @@ In your email specify your name, affiliation, and reason for more data access. W
 
 If you use a part of our data, or analysis from our paper, please cite the following: 
 
+Find our poster and presentation on this repository as well
+
 
 ----citation to be updated after the LREC 2022 conference----

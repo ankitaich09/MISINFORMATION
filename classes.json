@@ -1,0 +1,2004 @@
+{
+    "annotation_class": [
+        {
+            "Name": "FILE",
+            "Class": "1"
+        },
+        {
+            "Name": "FILE2",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID0",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID1",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID2",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID3",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID4",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID5",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID6",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID7",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID8",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID9",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID10",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID11",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID12",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID13",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID14",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID15",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID16",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID17",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID18",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID19",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID20",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID21",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID22",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID23",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID24",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID25",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID26",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID27",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID28",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID32",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID33",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID34",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID35",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID36",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID37",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID38",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID39",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID40",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID41",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID42",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID43",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID44",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID45",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID46",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID48",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID69",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID70",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID71",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID72",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID73",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID74",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID75",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID76",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID77",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID78",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID79",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID80",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID81",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID82",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID83",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID84",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID85",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID86",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID87",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID88",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID89",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID90",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID91",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID92",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID93",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID94",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID95",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID96",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID97",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID98",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID99",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID100",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID101",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID102",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID103",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID104",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID105",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID106",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID107",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID108",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID109",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID110",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID111",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID112",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID113",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID114",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID115",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID116",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID117",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID118",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID119",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID120",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID121",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID122",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID123",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID124",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID125",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID126",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID127",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID128",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID129",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID130",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID131",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID132",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID133",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID134",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID135",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID136",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID137",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID138",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID139",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID140",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID141",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID142",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID143",
+            "Class": "1"
+        },
+        {
+            "Name": "COVID144",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID145",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID146",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID147",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID148",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID149",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID150",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID151",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID152",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID153",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID154",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID155",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID156",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID157",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID158",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID159",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID160",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID161",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID162",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID163",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID164",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID165",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID166",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID1677",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID168",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID169",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID170",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID171",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID172",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID173",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID174",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID175",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID176",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID177",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID178",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID179",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID180",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID181",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID182",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID183",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID184",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID185",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID186",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID187",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID188",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID189",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID190",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID191",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID192",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID193",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID194",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID195",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID196",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID197",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID198",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID199",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID200",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID201",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID222",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID223",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID224",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID225",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID226",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID227",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID228",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID229",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID230",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID231",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID233",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID234",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID235",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID236",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID237",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID355",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID356",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID357",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID358",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID359",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID408",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID409",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID410",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID411",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID412",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID413",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID414",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID415",
+            "Class": "5"
+        },
+        {
+            "Name": "COVID416",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID417",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID418",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID419",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID420",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID421",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID422",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID423",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID424",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID425",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID426",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID427",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID428",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID429",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID430",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID431",
+            "Class": "2"
+        },
+        {
+            "Name": "COVID432",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID433",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID434",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID435",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID436",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID437",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID438",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID439",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID440",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID441",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID442",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID443",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID444",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID445",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID446",
+            "Class": "3"
+        },
+        {
+            "Name": "COVID447",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola301",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola302",
+            "Class": "2"
+        },
+        {
+            "Name": "Ebola303",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola304",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola305",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola306",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola307",
+            "Class": "2"
+        },
+        {
+            "Name": "Ebola308",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola309",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola310",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola311",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola312",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola313",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola314",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola315",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola316",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola317",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola318",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola319",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola320",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola321",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola322",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola323",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola324",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola325",
+            "Class": "6"
+        },
+        {
+            "Name": "Ebola327",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola328",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola329",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola330",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola331",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola332",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola333",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola334",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola335",
+            "Class": "2"
+        },
+        {
+            "Name": "Ebola336",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola337",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola338",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola339",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola340",
+            "Class": "2"
+        },
+        {
+            "Name": "Ebola341",
+            "Class": "2"
+        },
+        {
+            "Name": "Ebola342",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola343",
+            "Class": "2"
+        },
+        {
+            "Name": "Ebola344",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola345",
+            "Class": "2"
+        },
+        {
+            "Name": "Ebola346",
+            "Class": "2"
+        },
+        {
+            "Name": "Ebola347",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola348",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola349",
+            "Class": "3"
+        },
+        {
+            "Name": "Ebola350",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N129",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N130",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N147",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N149",
+            "Class": "1"
+        },
+        {
+            "Name": "H1N131",
+            "Class": "1"
+        },
+        {
+            "Name": "H1N150",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N151",
+            "Class": "1"
+        },
+        {
+            "Name": "H1N152",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N153",
+            "Class": "1"
+        },
+        {
+            "Name": "H1N154",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N155",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N156",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N157",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N158",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N159",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N160",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N161",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N162",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N163",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N164",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N165",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N166",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N167",
+            "Class": "1"
+        },
+        {
+            "Name": "H1N168",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N1202",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1203",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1204",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1205",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1206",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1207",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1208",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N1209",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N1210",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1211",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1212",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1214",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1215",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1216",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1217",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1218",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1219",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1220",
+            "Class": "2"
+        },
+        {
+            "Name": "H1N1221",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1238",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1239",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1240",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1241",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1242",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1243",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1244",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1245",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1246",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1247",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1248",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1249",
+            "Class": "3"
+        },
+        {
+            "Name": "H1N1250",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV251",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV252",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV253",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV254",
+            "Class": "2"
+        },
+        {
+            "Name": "HIV255",
+            "Class": "2"
+        },
+        {
+            "Name": "HIV256",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV257",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV258",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV259",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV260",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV261",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV262",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV263",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV264",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV265",
+            "Class": "4"
+        },
+        {
+            "Name": "HIV266",
+            "Class": "5"
+        },
+        {
+            "Name": "HIV267",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV268",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV269",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV270",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV271",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV272",
+            "Class": "2"
+        },
+        {
+            "Name": "HIV273",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV274",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV275",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV276",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV277",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV278",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV279",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV280",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV281",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV282",
+            "Class": "2"
+        },
+        {
+            "Name": "HIV283",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV284",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV285",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV286",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV287",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV288",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV289",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV290",
+            "Class": "1"
+        },
+        {
+            "Name": "HIV291",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV292",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV293",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV294",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV295",
+            "Class": "4"
+        },
+        {
+            "Name": "HIV296",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV297",
+            "Class": "1"
+        },
+        {
+            "Name": "HIV298",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV298",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV299",
+            "Class": "2"
+        },
+        {
+            "Name": "HIV300",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV351",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV352",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV353",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV354",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles448",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles449",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles450",
+            "Class": "3"
+        },
+        {
+            "Name": "HIV451",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles452",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles453",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles454",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles455",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles456",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles457",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles458",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles459",
+            "Class": "2"
+        },
+        {
+            "Name": "Measles460",
+            "Class": "2"
+        },
+        {
+            "Name": "Measles461",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles462",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles463",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles464",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles465",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles466",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles467",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles468",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles469",
+            "Class": "2"
+        },
+        {
+            "Name": "Measles470",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles471",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles472",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles473",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles474",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles475",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles476",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles477",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles478",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles479",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles480",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles481",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles482",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles483",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles484",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles485",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles486",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles487",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles488",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles489",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles490",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles491",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles492",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles493",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles494",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles495",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles496",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles497",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles498",
+            "Class": "3"
+        },
+        {
+            "Name": "Measles499",
+            "Class": "3"
+        },
+        {
+            "Name": "MERS400",
+            "Class": "3"
+        },
+        {
+            "Name": "MERS401",
+            "Class": "3"
+        },
+        {
+            "Name": "MERS402",
+            "Class": "3"
+        },
+        {
+            "Name": "MERS403",
+            "Class": "3"
+        },
+        {
+            "Name": "MERS404",
+            "Class": "3"
+        },
+        {
+            "Name": "MERS405",
+            "Class": "3"
+        },
+        {
+            "Name": "MERS406",
+            "Class": "3"
+        },
+        {
+            "Name": "MERS407",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox360",
+            "Class": "2"
+        },
+        {
+            "Name": "Smallpox361",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox362",
+            "Class": "1"
+        },
+        {
+            "Name": "Smallpox363",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox364",
+            "Class": "1"
+        },
+        {
+            "Name": "Smallpox365",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox366",
+            "Class": "1"
+        },
+        {
+            "Name": "Smallpox367",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox368",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox369",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox370",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox371",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox372",
+            "Class": "1"
+        },
+        {
+            "Name": "Smallpox373",
+            "Class": "1"
+        },
+        {
+            "Name": "Smallpox374",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox375",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox376",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox377",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox378",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox379",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox380",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox381",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox382",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox383",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox384",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox385",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox386",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox387",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox388",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox389",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox390",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox391",
+            "Class": "3"
+        },
+        {
+            "Name": "Smallpox399",
+            "Class": "3"
+        },
+        {
+            "Name": "Spanish Flu392",
+            "Class": "3"
+        },
+        {
+            "Name": "Spanish Flu393",
+            "Class": "3"
+        },
+        {
+            "Name": "Spanish Flu394",
+            "Class": "3"
+        },
+        {
+            "Name": "Spanish Flu395",
+            "Class": "3"
+        },
+        {
+            "Name": "Spanish Flu396",
+            "Class": "3"
+        },
+        {
+            "Name": "Spanish Flu397",
+            "Class": "3"
+        },
+        {
+            "Name": "Spanish Flu398",
+            "Class": "3"
+        }
+    ]
+}
